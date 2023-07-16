@@ -1,0 +1,9 @@
+<svg id="printer-tool" xmlns="http://www.w3.org/2000/svg" width="60.888" height="60.888" viewBox="0 0 60.888 60.888">
+  <g id="Group_65" data-name="Group 65" transform="translate(0)">
+    <path id="Path_135" data-name="Path 135" d="M94.784,3.806h30.444v7.611h3.806V3.806A3.806,3.806,0,0,0,125.228,0H94.784a3.809,3.809,0,0,0-3.806,3.806v7.611h3.806Z" transform="translate(-79.561)"/>
+    <path id="Path_136" data-name="Path 136" d="M57.084,121.3H3.807A3.808,3.808,0,0,0,0,125.109v19.028a3.806,3.806,0,0,0,3.806,3.806h7.611v15.222a3.806,3.806,0,0,0,3.806,3.806H45.667a3.8,3.8,0,0,0,3.806-3.806V147.943h7.611a3.8,3.8,0,0,0,3.805-3.806V125.109A3.805,3.805,0,0,0,57.084,121.3ZM45.667,163.165H15.223V136.526H45.667Zm7.611-30.444a3.806,3.806,0,1,1,3.806-3.806A3.8,3.8,0,0,1,53.278,132.721Z" transform="translate(-0.001 -106.082)"/>
+    <rect id="Rectangle_132" data-name="Rectangle 132" width="15.222" height="3.806" transform="translate(19.028 34.249)"/>
+    <rect id="Rectangle_133" data-name="Rectangle 133" width="22.834" height="3.805" transform="translate(19.028 41.861)"/>
+    <rect id="Rectangle_134" data-name="Rectangle 134" width="22.834" height="3.805" transform="translate(19.028 49.472)"/>
+  </g>
+</svg>
